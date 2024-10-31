@@ -1,6 +1,5 @@
 ShoppingTrack
 ------------
-Mobile app that tracks all the internet shoppings you've done.
 
 Author: Hyoseo Kwag [cloudymonkey@naver.com](mailto:cloudymonkey@naver.com)
 
@@ -12,8 +11,8 @@ Date: October 29 2024 - Present
 **Environment**
 * OS: Windows, Android
 * Language: Kotlin
-* Framework: 
-* Tools: 
+* Framework: ...
+* Tools: ...
 * IDE: Android Studio
 
 
@@ -27,3 +26,5 @@ Date: October 29 2024 - Present
 
 ## :shamrock: Links Used to Implement
 * [Building Simple Android App](https://www.youtube.com/watch?v=fs2YAdO63UQ)
+* [App Resources Overview](https://developer.android.com/guide/topics/resources/providing-resources)
+* [Difference In px, dp, sp](https://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dip-dp-and-sp)
