@@ -1,7 +1,6 @@
 ShoppingTrack
 ------------
-
-[My Website Link](https://rejiha.online/)
+Mobile app that tracks all the internet shoppings you've done.
 
 Author: Hyoseo Kwag [cloudymonkey@naver.com](mailto:cloudymonkey@naver.com)
 
@@ -12,18 +11,19 @@ Date: October 29 2024 - Present
 
 **Environment**
 * OS: Windows, Android
-* Language: 
+* Language: Kotlin
 * Framework: 
 * Tools: 
-* IDE: Visual Studio Code
+* IDE: Android Studio
 
 
 ## :fish: To-Do
-- [] main page
-    - [] table view of shoppings
+- [ ] main page
+    - [ ] list of shoppings
+      - [ ] on click, expands to detailed view
 
 ## :framed_picture: Sketches
 ...
 
 ## :shamrock: Links Used to Implement
-* 
+* [Building Simple Android App](https://www.youtube.com/watch?v=fs2YAdO63UQ)
