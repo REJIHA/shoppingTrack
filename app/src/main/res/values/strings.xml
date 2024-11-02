@@ -2,5 +2,8 @@
     <string name="app_name">Shopping Track</string>
     <string name="greeting">Welcome to Shopping Track!</string>
 
-    <string name="view">view</string>
+    <string name="add_button">Add</string>
+    <string name="delete_button">Delete</string>
+
+    <string name="view">View</string>
 </resources>

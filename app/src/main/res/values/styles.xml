@@ -5,4 +5,9 @@
         <item name="android:textColor">@color/black</item>
     </style>
 
+    <style name="itemText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
 </resources>
